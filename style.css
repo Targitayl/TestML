@@ -1,0 +1,45 @@
+body {
+	background-image: url('photos/6.jpg');
+	background-size: 100% 100%;
+}
+h4 {color: orangered !important; text-shadow: 2px 2px yellow;}
+h1 {color: wheat; text-shadow: 2px 2px red;}
+img {border-radius: 8px;}
+
+#ff1 {
+	color: greenyellow;
+	text-shadow: red 2px 2px;
+}
+
+.ff5 { color:  #3df10d ;}
+img { border: 1px solid #ddd;
+  background-color: blueviolet;
+  border-radius: 5px;
+  padding: 10px;
+  width: 350px;
+}
+button {
+  background-color: #04AA6D;
+  border: 2px solid whitesmoke;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 100%
+}
+
+
+
+
+
+
+
+
+
+
+
+
